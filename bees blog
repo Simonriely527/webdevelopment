@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<body>
+    <h1>Welcome to bees blog</h1>
+    <h2>Here we will encorage you to help honey bees survive</h2>
+    <h2>we will have small online disscusions about bees</h2>
+    <p>this is why we need bees:</p>
+    <!-- Add a block quotation -->
+    <blockquote>
+        We need bees because they are vital pollinators, responsible for the reproduction of about one-third of the
+        world's food crops and 75% of flowering plants, ensuring our food supply and a balanced ecosystem. Bees also
+        provide high-quality food and products like honey and beeswax, support biodiversity, and indicate the health of
+        our natural landscapes. Without bees, many foods would become less available or more expensive, and ecosystems
+        would face severe disruption.
+        <h2>Pollination and Food Security</h2>
+        Crop Reproduction: Bees transfer pollen between flowers, a process essential for plants to produce seeds,
+        fruits, and vegetables.
+        Global Food Supply: Around 75% of the world's flowering plants rely on pollinators, and a significant portion of
+        global food production depends on them, according to the Food and Agriculture Organization (FAO) of the United
+        Nations.
+        Increased Yield and Quality: Bees increase both the quantity and quality of many fruits, nuts, and vegetables,
+        including apples, berries, melons, and pumpkins.
+        Ecological Importance
+        Biodiversity: By pollinating wild plants and trees, bees support the habitats and food sources for other
+        wildlife, which helps maintain biodiversity.
+        Ecosystem Health: Bees play a critical role in maintaining the balance of ecosystems. Their presence indicates
+        the health of the local environment and its ability to support varied flora.
+        Human and Economic Benefits
+        Products: Bees produce valuable products such as honey, royal jelly, pollen, beeswax, and propolis, which have
+        medicinal and commercial uses.
+        Economic Value: Bees provide billions of dollars' worth of pollination services to agriculture annually,
+        supporting farmers and the economy.
+        Consequences of Bee Decline
+        Food Shortages: A decline in bee populations would lead to food shortages and increased food prices, impacting
+        human food security.
+        Ecosystem Collapse: The loss of bees would trigger a cascade effect, disrupting food chains and potentially
+        leading to the collapse of entire ecosystems.
+    </blockquote>
+
+<!-- Add a quotation in quotes -->
+ <p>WWfs goal is to: <q>Build a future where people live in harmony with nature</q></p>
+ 
+
+
+</body>
+
+</html>
